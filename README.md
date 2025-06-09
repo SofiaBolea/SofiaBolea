@@ -1,7 +1,7 @@
 
 ## Hola! mi nombre es Sofía
 ## 🚀 About Me
-Soy Sofia Bolea, tengo 21 años y soy una Front End Developer. Además soy estudiante de Ingenieria en sistemas en la facultad UTN Santa Fe. Actualmente curso mi cuarto año.
+Soy Sofia Bolea, tengo 21 años y soy Full Stack developer en proceso. Además soy estudiante de Ingenieria en sistemas en la facultad UTN Santa Fe.
 
 
 ## 🔗 Links
